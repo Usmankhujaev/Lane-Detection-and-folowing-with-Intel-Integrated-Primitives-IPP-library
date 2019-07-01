@@ -1,5 +1,7 @@
 # Lane-Detection-and-folowing-with-Intel-Integrated-Primitives-IPP-library
 This code is a lane detection and following algorithm that is completes image processing techniques in parallel computing with a help of IPP.
+This program is working together with IPP and OpenCV libraries. Make sure You installed and integrated these libraries with your development tool. The program has been done in Visual Studion 2017 and it's been integrated accordingly, so check the integration before running the code.
+
 There are various types of Lane Detection and each of them has its advantages and disadvantages.
 We used several algorithms to detect the lane:
 1) Image denoising.
@@ -44,6 +46,11 @@ Result
 run lane_detection.cpp
 the output of a program is a detecting direction. 
 it's supposed to give you turn prediction too.
+
+![Alt text](/output_1.png)
+
+
+
 
 you can find video here https://www.youtube.com/watch?v=JHAcW9cU0mY
  
