@@ -41,4 +41,10 @@ Result
 
 ![Alt text](/input.png)
 
+run lane_detection.cpp
+the output of a program is a detecting direction. 
+it's supposed to give you turn prediction too.
 
+you can find video here https://www.youtube.com/watch?v=JHAcW9cU0mY
+ 
+ 
