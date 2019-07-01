@@ -36,6 +36,9 @@ At the end we get two thick lines
 Then we plot them on an original image 
 
 Result
+
+
+
 ![Alt text](/input.png)
 
 
